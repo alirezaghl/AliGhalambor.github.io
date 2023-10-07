@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "Ali Ghalambor",
+    "label": "Doctor of Medicine| Ahvaz university of Medical Sciences",
+    "email": "ghalamboral@gmail.com",
+    "phone": "",
+    "website": "https://AliGhalambor.github.io",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Khuzestan Province",
+      "countryCode": "",
+      "region": "Iran"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "alirezaghl",
+        "url": "https://github.com/alirezaghl"
+      },
+      {
+        "network": "linkedin",
+        "username": "Alireza Ghalambor",
+        "url": "https://www.linkedin.com/in/alireza-ghalambor-64050a15a/"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Neuroscience",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Brain-Computer Interfaces",
+      "keywords": [
+      ]
+    }
+  ],
+  
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Python",
+        "MATLAB"
+       ]
+    },
+    {
+      "name": "AI",
+      "level": "",
+      "keywords": [
+        "Scikit-Learn",
+        "Keras",
+        "Pytorch",
+        "Tensorflow"
+        ]
+    },
+    {
+      "name": "Developer Tools",
+      "level":"",
+      "keywords": [
+        "Git",
+        "Linux",
+        "Jupyter Notebook",
+        "Visual Studio"
+        ]
+    }
+  ],
+  
+  "education": [
+    {
+      "institution": "Ahvaz University of Medical Sciences",
+      "studyType": "Doctor of Medicine-MD",
+      "startDate": "2017",
+      "endDate": "2024",
+      "gpa": "3.60",
+      "courses": [
+      ]
+    }]  
+ 
+}
